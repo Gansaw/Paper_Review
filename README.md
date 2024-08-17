@@ -9,6 +9,7 @@ This is a space where I summarize AI-related papers and post them. The posted co
 + oo
 
 ## 2. 딥러닝(Deep Learning)
+### https://ffighting.net/deep-learning-paper-review/deep-learning-paper-guide/deep-learning-paper-guide/#1_%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0 페이지 참조
 + 비전 모델(Vision Model)
 + 객체 식별(Object Detection)
 + 분류(Segmentation)
