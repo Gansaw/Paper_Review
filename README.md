@@ -9,9 +9,14 @@ This is a space where I summarize AI-related papers and post them. The posted co
 + oo
 
 ## 2. 딥러닝(Deep Learning)
-+ oo
-+ oo
-+ oo
++ 비전 모델(Vision Model)
++ 객체 식별(Object Detection)
++ 분류(Segmentation)
++ 자기 지도 학습(Self-Supervised Learning)
++ 언어 모델(Language Model)
++ 이미지 생성 모델(Image Generative Model)
++ 비전 언어 모델(Vision Language Model)
++ 기타(ETC)
 
 ## 3. 강화학습(Reinforcement learning)
 + oo
